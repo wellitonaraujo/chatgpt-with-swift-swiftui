@@ -1,2 +1,1 @@
-# chatgpt-with-swift-swiftui
-ChatGPT with Swift/SwiftUI
+# ChatGPT with Swift/SwiftUI
